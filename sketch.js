@@ -8,12 +8,12 @@ var sun,sunImage,earth,earthImage,pickcity,pickcityImage,alia,aliaImage,uran,ura
 
 
 function preload(){
-  sunImage=loadImage('images/Sun.jpg')
-  earthImage=loadImage('images/Earth.jpg')
-  pickcityImage=loadImage('images/pickcity.jpg')
-  aliaImage=loadImage('images/alia.jpg')
-  vanImage=loadImage('images/van.jpg')
- uranImage=loadImage('images/uran.jpg')
+  sunImage=loadImage('Sun.jpg')
+  earthImage=loadImage('Earth.jpg')
+  pickcityImage=loadImage('pickcity.jpg')
+  aliaImage=loadImage('alia.jpg')
+  vanImage=loadImage('van.jpg')
+ uranImage=loadImage('uran.jpg')
 }
 
 
