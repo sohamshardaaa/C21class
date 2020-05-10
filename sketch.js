@@ -59,18 +59,18 @@ function draw() {
     earth.destroy()
   }
  
-  if (pickcity.collide(pickcity)) {
+  if (sun.collide(pickcity)) {
     pickcity.destroy()
   }
-  if (alia.collide(alia)) {
+  if (sun.collide(alia)) {
     alia.destroy()
   }
 
-  if (van.collide(van)) {
+  if (sun.collide(van)) {
     van.destroy()
   }
 
-  if (uran.collide(uran)) {
+  if (sun.collide(uran)) {
     uran.destroy()
   }
  
